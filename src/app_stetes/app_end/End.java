@@ -11,4 +11,8 @@ public class End {
     private static double convertMilesToKms(double miles) {
         return miles * 1.60934;
     }
+
+    private static double convertKmsToMiles(double kms) {
+        return kms / 1.60934;
+    }
 }
