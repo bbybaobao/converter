@@ -7,4 +7,8 @@ public class End {
         double miles = 15;
         double kms = 26;
     }
+
+    private static double convertMilesToKms(double miles) {
+        return miles * 1.60934;
+    }
 }
