@@ -1,4 +1,4 @@
-package app_stetes.app_start;
+package app_states.app_start;
 
 public class Start {
     public static void main(String[] args) {

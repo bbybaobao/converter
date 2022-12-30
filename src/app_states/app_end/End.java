@@ -1,4 +1,4 @@
-package app_stetes.app_end;
+package app_states.app_end;
 
 public class End {
     public static void main(String[] args) {
